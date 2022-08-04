@@ -1,0 +1,23 @@
+
+___________________________
+          Nombre:Marley
+        Apellido: Morales
+         Materia: Progra
+Fecha de ingreso: 23 /11 / 2021
+           Nota 1: 10
+          Nota 2: 10
+          Nota 3: 9
+        Promedio: 9.66667
+
+___________________________
+
+___________________________
+          Nombre:Jeimy 
+        Apellido: Morales
+         Materia: Progra
+Fecha de ingreso: 23 /12 / 2021
+           Nota 1: 10
+          Nota 2: 9
+          Nota 3: 10
+        Promedio: 9.66667
+___________________________
